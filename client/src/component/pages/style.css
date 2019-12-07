@@ -1,0 +1,40 @@
+.card-title{
+    text-align: center;
+}
+.border-primary{
+    border: 1px solid gray!important;
+}
+.mx-2{
+    margin-top: 15px!important;
+}
+.area-of-land{
+    position: relative!important;
+}
+.area-unit{
+    position: absolute;
+    right: 16px;
+    top: 53%;
+}
+.drip-unit{
+    position: absolute;
+    right: 18px;
+    top: 17%;
+}
+.drip{
+    padding-right: 42px!important;
+}
+.card-body ul{
+    padding: 15px!important;
+}
+.card-body{
+    box-shadow: 1px 2px 2px #b6c1b6;
+   border: 1px solid #f3efef!important;
+}
+.card-footer{
+    box-shadow: 1px 2px 2px #b6c1b6;
+    border: 1px solid #f3efef!important;
+    line-height: 0!important;
+}
+.card{
+    border:0px!important;
+}
